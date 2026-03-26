@@ -1,0 +1,2946 @@
+[
+    {
+        "timestamp": "2026-03-16T20:10:10.754909",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2346.2,
+        "amount": 0.1374,
+        "total_value": 322.37
+    },
+    {
+        "timestamp": "2026-03-16T20:10:10.754768",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2346.2,
+        "amount": 0.1173,
+        "total_value": 275.21
+    },
+    {
+        "timestamp": "2026-03-16T20:10:04.753389",
+        "symbol": "SOL",
+        "position": "Short",
+        "price": 95.26,
+        "amount": 0.23,
+        "total_value": 21.91
+    },
+    {
+        "timestamp": "2026-03-16T20:10:04.753154",
+        "symbol": "SOL",
+        "position": "Short",
+        "price": 95.25,
+        "amount": 0.36,
+        "total_value": 34.29
+    },
+    {
+        "timestamp": "2026-03-16T19:45:49.760418",
+        "symbol": "TAO",
+        "position": "Long",
+        "price": 276.25,
+        "amount": 2.64,
+        "total_value": 729.3
+    },
+    {
+        "timestamp": "2026-03-16T19:45:49.760339",
+        "symbol": "TAO",
+        "position": "Long",
+        "price": 276.25,
+        "amount": 0.36,
+        "total_value": 99.45
+    },
+    {
+        "timestamp": "2026-03-16T19:45:49.760108",
+        "symbol": "TAO",
+        "position": "Long",
+        "price": 276.31,
+        "amount": 0.36,
+        "total_value": 99.47
+    },
+    {
+        "timestamp": "2026-03-16T19:28:34.761931",
+        "symbol": "ZEC",
+        "position": "Short",
+        "price": 269.02,
+        "amount": 3.42,
+        "total_value": 920.05
+    },
+    {
+        "timestamp": "2026-03-16T19:28:01.768733",
+        "symbol": "EURUSD",
+        "position": "Short",
+        "price": 1.1538,
+        "amount": 617.3,
+        "total_value": 712.24
+    },
+    {
+        "timestamp": "2026-03-16T19:28:01.768661",
+        "symbol": "EURUSD",
+        "position": "Short",
+        "price": 1.1534,
+        "amount": 867.0,
+        "total_value": 1000.0
+    },
+    {
+        "timestamp": "2026-03-16T19:28:01.768600",
+        "symbol": "EURUSD",
+        "position": "Short",
+        "price": 1.1531,
+        "amount": 1734.5,
+        "total_value": 2000.05
+    },
+    {
+        "timestamp": "2026-03-16T19:28:01.768524",
+        "symbol": "EURUSD",
+        "position": "Short",
+        "price": 1.1524,
+        "amount": 5494.1,
+        "total_value": 6331.4
+    },
+    {
+        "timestamp": "2026-03-16T19:28:01.768439",
+        "symbol": "EURUSD",
+        "position": "Short",
+        "price": 1.1515,
+        "amount": 2197.6,
+        "total_value": 2530.54
+    },
+    {
+        "timestamp": "2026-03-16T19:28:01.768355",
+        "symbol": "EURUSD",
+        "position": "Short",
+        "price": 1.1511,
+        "amount": 530.2,
+        "total_value": 610.31
+    },
+    {
+        "timestamp": "2026-03-16T19:28:01.768280",
+        "symbol": "EURUSD",
+        "position": "Short",
+        "price": 1.1509,
+        "amount": 395.2,
+        "total_value": 454.84
+    },
+    {
+        "timestamp": "2026-03-16T19:28:01.768201",
+        "symbol": "EURUSD",
+        "position": "Short",
+        "price": 1.1508,
+        "amount": 413.5,
+        "total_value": 475.86
+    },
+    {
+        "timestamp": "2026-03-16T19:28:01.768143",
+        "symbol": "EURUSD",
+        "position": "Short",
+        "price": 1.1507,
+        "amount": 387.7,
+        "total_value": 446.13
+    },
+    {
+        "timestamp": "2026-03-16T19:28:01.768079",
+        "symbol": "EURUSD",
+        "position": "Short",
+        "price": 1.1507,
+        "amount": 532.5,
+        "total_value": 612.75
+    },
+    {
+        "timestamp": "2026-03-16T19:28:01.768009",
+        "symbol": "EURUSD",
+        "position": "Short",
+        "price": 1.1507,
+        "amount": 435.9,
+        "total_value": 501.59
+    },
+    {
+        "timestamp": "2026-03-16T19:28:01.767932",
+        "symbol": "EURUSD",
+        "position": "Short",
+        "price": 1.1506,
+        "amount": 21.7,
+        "total_value": 24.97
+    },
+    {
+        "timestamp": "2026-03-16T19:28:01.767879",
+        "symbol": "EURUSD",
+        "position": "Short",
+        "price": 1.1506,
+        "amount": 453.6,
+        "total_value": 521.91
+    },
+    {
+        "timestamp": "2026-03-16T19:28:01.767816",
+        "symbol": "EURUSD",
+        "position": "Short",
+        "price": 1.1506,
+        "amount": 541.9,
+        "total_value": 623.51
+    },
+    {
+        "timestamp": "2026-03-16T19:28:01.767757",
+        "symbol": "EURUSD",
+        "position": "Short",
+        "price": 1.1506,
+        "amount": 542.4,
+        "total_value": 624.09
+    },
+    {
+        "timestamp": "2026-03-16T19:28:01.767697",
+        "symbol": "EURUSD",
+        "position": "Short",
+        "price": 1.1506,
+        "amount": 541.5,
+        "total_value": 623.05
+    },
+    {
+        "timestamp": "2026-03-16T19:28:01.767626",
+        "symbol": "EURUSD",
+        "position": "Short",
+        "price": 1.1506,
+        "amount": 500.5,
+        "total_value": 575.88
+    },
+    {
+        "timestamp": "2026-03-16T19:28:01.767542",
+        "symbol": "EURUSD",
+        "position": "Short",
+        "price": 1.1506,
+        "amount": 498.1,
+        "total_value": 573.11
+    },
+    {
+        "timestamp": "2026-03-16T19:28:01.767470",
+        "symbol": "EURUSD",
+        "position": "Short",
+        "price": 1.1505,
+        "amount": 541.5,
+        "total_value": 623.0
+    },
+    {
+        "timestamp": "2026-03-16T19:28:01.767400",
+        "symbol": "EURUSD",
+        "position": "Short",
+        "price": 1.1505,
+        "amount": 497.8,
+        "total_value": 572.72
+    },
+    {
+        "timestamp": "2026-03-16T19:28:01.767213",
+        "symbol": "EURUSD",
+        "position": "Short",
+        "price": 1.1505,
+        "amount": 499.4,
+        "total_value": 574.56
+    },
+    {
+        "timestamp": "2026-03-16T19:26:13.762931",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2341.6,
+        "amount": 8.4274,
+        "total_value": 19733.6
+    },
+    {
+        "timestamp": "2026-03-16T19:26:13.762871",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2341.6,
+        "amount": 3.7504,
+        "total_value": 8781.94
+    },
+    {
+        "timestamp": "2026-03-16T19:26:13.762814",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2341.6,
+        "amount": 8.5409,
+        "total_value": 19999.37
+    },
+    {
+        "timestamp": "2026-03-16T19:26:13.762754",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2341.6,
+        "amount": 0.8541,
+        "total_value": 1999.96
+    },
+    {
+        "timestamp": "2026-03-16T19:26:13.762700",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2341.6,
+        "amount": 4.4185,
+        "total_value": 10346.36
+    },
+    {
+        "timestamp": "2026-03-16T19:26:13.762625",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2341.6,
+        "amount": 0.427,
+        "total_value": 999.86
+    },
+    {
+        "timestamp": "2026-03-16T19:26:13.762507",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2341.6,
+        "amount": 0.1175,
+        "total_value": 275.14
+    },
+    {
+        "timestamp": "2026-03-16T19:26:10.787159",
+        "symbol": "XRP",
+        "position": "Short",
+        "price": 1.5438,
+        "amount": 36.37,
+        "total_value": 56.15
+    },
+    {
+        "timestamp": "2026-03-16T19:26:10.763944",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2343.4,
+        "amount": 0.5897,
+        "total_value": 1381.9
+    },
+    {
+        "timestamp": "2026-03-16T19:25:28.763036",
+        "symbol": "ZEC",
+        "position": "Short",
+        "price": 269.24,
+        "amount": 0.67,
+        "total_value": 180.39
+    },
+    {
+        "timestamp": "2026-03-16T19:24:28.765374",
+        "symbol": "EURUSD",
+        "position": "Short",
+        "price": 1.15,
+        "amount": 516.9,
+        "total_value": 594.43
+    },
+    {
+        "timestamp": "2026-03-16T19:23:35.719774",
+        "symbol": "FARTCOIN",
+        "position": "Short",
+        "price": 0.1879,
+        "amount": 1426.9,
+        "total_value": 268.11
+    },
+    {
+        "timestamp": "2026-03-16T19:23:35.361517",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2335.4,
+        "amount": 0.3475,
+        "total_value": 811.55
+    },
+    {
+        "timestamp": "2026-03-16T19:23:34.905369",
+        "symbol": "BTC",
+        "position": "Long",
+        "price": 74147.0,
+        "amount": 0.01248,
+        "total_value": 925.35
+    },
+    {
+        "timestamp": "2026-03-16T19:19:18.513773",
+        "symbol": "PIPPIN",
+        "position": "Long",
+        "price": 0.2585,
+        "amount": 28.0,
+        "total_value": 7.24
+    },
+    {
+        "timestamp": "2026-03-16T19:14:10.847829",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2339.0,
+        "amount": 0.119,
+        "total_value": 278.34
+    },
+    {
+        "timestamp": "2026-03-16T19:14:10.847528",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2339.0,
+        "amount": 0.1176,
+        "total_value": 275.07
+    },
+    {
+        "timestamp": "2026-03-16T19:09:46.837672",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2335.8,
+        "amount": 0.0281,
+        "total_value": 65.64
+    },
+    {
+        "timestamp": "2026-03-16T19:09:46.774811",
+        "symbol": "BTC",
+        "position": "Long",
+        "price": 74273.0,
+        "amount": 0.00083,
+        "total_value": 61.65
+    },
+    {
+        "timestamp": "2026-03-16T19:09:31.810156",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2335.3,
+        "amount": 2.6861,
+        "total_value": 6272.85
+    },
+    {
+        "timestamp": "2026-03-16T19:09:31.809990",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2335.3,
+        "amount": 0.5728,
+        "total_value": 1337.66
+    },
+    {
+        "timestamp": "2026-03-16T19:09:31.809817",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2335.3,
+        "amount": 0.7828,
+        "total_value": 1828.07
+    },
+    {
+        "timestamp": "2026-03-16T19:09:31.809632",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2335.3,
+        "amount": 0.6213,
+        "total_value": 1450.92
+    },
+    {
+        "timestamp": "2026-03-16T19:09:31.809464",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2335.2,
+        "amount": 0.8564,
+        "total_value": 1999.87
+    },
+    {
+        "timestamp": "2026-03-16T19:09:31.809265",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2335.2,
+        "amount": 0.7732,
+        "total_value": 1805.58
+    },
+    {
+        "timestamp": "2026-03-16T19:09:31.809075",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2335.2,
+        "amount": 0.5728,
+        "total_value": 1337.6
+    },
+    {
+        "timestamp": "2026-03-16T19:09:31.808886",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2335.2,
+        "amount": 1.7388,
+        "total_value": 4060.45
+    },
+    {
+        "timestamp": "2026-03-16T19:09:31.808696",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2335.2,
+        "amount": 1.7396,
+        "total_value": 4062.31
+    },
+    {
+        "timestamp": "2026-03-16T19:09:31.808507",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2335.1,
+        "amount": 0.8564,
+        "total_value": 1999.78
+    },
+    {
+        "timestamp": "2026-03-16T19:09:31.808302",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2335.1,
+        "amount": 2.7724,
+        "total_value": 6473.83
+    },
+    {
+        "timestamp": "2026-03-16T19:09:31.808102",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2335.1,
+        "amount": 6.2578,
+        "total_value": 14612.59
+    },
+    {
+        "timestamp": "2026-03-16T19:09:31.807904",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2335.1,
+        "amount": 0.4282,
+        "total_value": 999.89
+    },
+    {
+        "timestamp": "2026-03-16T19:09:31.807713",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2335.1,
+        "amount": 8.2457,
+        "total_value": 19254.53
+    },
+    {
+        "timestamp": "2026-03-16T19:09:31.807520",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2335.1,
+        "amount": 0.6029,
+        "total_value": 1407.83
+    },
+    {
+        "timestamp": "2026-03-16T19:09:31.807329",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2335.0,
+        "amount": 0.4282,
+        "total_value": 999.85
+    },
+    {
+        "timestamp": "2026-03-16T19:09:31.807140",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2335.0,
+        "amount": 4.4185,
+        "total_value": 10317.2
+    },
+    {
+        "timestamp": "2026-03-16T19:09:31.806978",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2335.0,
+        "amount": 0.6213,
+        "total_value": 1450.74
+    },
+    {
+        "timestamp": "2026-03-16T19:09:31.806797",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2334.9,
+        "amount": 0.4282,
+        "total_value": 999.8
+    },
+    {
+        "timestamp": "2026-03-16T19:09:31.806656",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2334.9,
+        "amount": 0.1178,
+        "total_value": 275.05
+    },
+    {
+        "timestamp": "2026-03-16T19:09:31.806537",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2334.9,
+        "amount": 0.8565,
+        "total_value": 1999.84
+    },
+    {
+        "timestamp": "2026-03-16T19:09:31.806363",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2334.8,
+        "amount": 0.1178,
+        "total_value": 275.04
+    },
+    {
+        "timestamp": "2026-03-16T19:09:31.806238",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2334.7,
+        "amount": 0.5865,
+        "total_value": 1369.3
+    },
+    {
+        "timestamp": "2026-03-16T19:09:31.806101",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2334.7,
+        "amount": 4.4185,
+        "total_value": 10315.87
+    },
+    {
+        "timestamp": "2026-03-16T19:09:31.805599",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2334.7,
+        "amount": 0.1329,
+        "total_value": 310.28
+    },
+    {
+        "timestamp": "2026-03-16T19:09:19.858154",
+        "symbol": "BTC",
+        "position": "Long",
+        "price": 74226.0,
+        "amount": 0.09191,
+        "total_value": 6822.11
+    },
+    {
+        "timestamp": "2026-03-16T19:09:19.857950",
+        "symbol": "BTC",
+        "position": "Long",
+        "price": 74226.0,
+        "amount": 0.00809,
+        "total_value": 600.49
+    },
+    {
+        "timestamp": "2026-03-16T19:09:19.826146",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2332.2,
+        "amount": 3.7601,
+        "total_value": 8769.31
+    },
+    {
+        "timestamp": "2026-03-16T19:09:19.825878",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2332.2,
+        "amount": 8.2545,
+        "total_value": 19251.14
+    },
+    {
+        "timestamp": "2026-03-16T19:09:07.892510",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2331.5,
+        "amount": 0.0069,
+        "total_value": 16.09
+    },
+    {
+        "timestamp": "2026-03-16T19:09:07.892298",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2331.5,
+        "amount": 0.3783,
+        "total_value": 882.01
+    },
+    {
+        "timestamp": "2026-03-16T19:09:07.892106",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2331.4,
+        "amount": 0.2859,
+        "total_value": 666.55
+    },
+    {
+        "timestamp": "2026-03-16T19:09:07.891960",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2331.4,
+        "amount": 0.4289,
+        "total_value": 999.94
+    },
+    {
+        "timestamp": "2026-03-16T19:09:07.891787",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2331.4,
+        "amount": 0.1429,
+        "total_value": 333.16
+    },
+    {
+        "timestamp": "2026-03-16T19:09:07.891517",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2331.0,
+        "amount": 0.225,
+        "total_value": 524.48
+    },
+    {
+        "timestamp": "2026-03-16T19:09:07.851155",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 74229.0,
+        "amount": 0.00054,
+        "total_value": 40.08
+    },
+    {
+        "timestamp": "2026-03-16T19:09:07.850994",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 74229.0,
+        "amount": 0.00079,
+        "total_value": 58.64
+    },
+    {
+        "timestamp": "2026-03-16T19:09:07.850799",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 74224.0,
+        "amount": 0.00037,
+        "total_value": 27.46
+    },
+    {
+        "timestamp": "2026-03-16T19:09:07.850535",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 74220.0,
+        "amount": 0.00078,
+        "total_value": 57.89
+    },
+    {
+        "timestamp": "2026-03-16T19:08:34.875252",
+        "symbol": "SOL",
+        "position": "Short",
+        "price": 94.66,
+        "amount": 6.92,
+        "total_value": 655.05
+    },
+    {
+        "timestamp": "2026-03-16T19:08:31.780506",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 74148.0,
+        "amount": 0.00014,
+        "total_value": 10.38
+    },
+    {
+        "timestamp": "2026-03-16T19:08:31.780162",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 74146.0,
+        "amount": 0.00069,
+        "total_value": 51.16
+    },
+    {
+        "timestamp": "2026-03-16T19:07:40.804317",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2321.7,
+        "amount": 0.0481,
+        "total_value": 111.67
+    },
+    {
+        "timestamp": "2026-03-16T18:47:52.782162",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 74009.0,
+        "amount": 0.0956,
+        "total_value": 7075.26
+    },
+    {
+        "timestamp": "2026-03-16T18:47:49.871792",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2318.5,
+        "amount": 0.7616,
+        "total_value": 1765.77
+    },
+    {
+        "timestamp": "2026-03-16T18:47:49.862714",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2318.5,
+        "amount": 1.2408,
+        "total_value": 2876.79
+    },
+    {
+        "timestamp": "2026-03-16T18:47:49.778605",
+        "symbol": "SOL",
+        "position": "Short",
+        "price": 94.31,
+        "amount": 6.43,
+        "total_value": 606.41
+    },
+    {
+        "timestamp": "2026-03-16T18:47:49.778318",
+        "symbol": "SOL",
+        "position": "Short",
+        "price": 94.31,
+        "amount": 10.6,
+        "total_value": 999.69
+    },
+    {
+        "timestamp": "2026-03-16T18:47:49.778017",
+        "symbol": "SOL",
+        "position": "Short",
+        "price": 94.31,
+        "amount": 21.2,
+        "total_value": 1999.37
+    },
+    {
+        "timestamp": "2026-03-16T18:46:22.787542",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2315.8,
+        "amount": 0.1092,
+        "total_value": 252.89
+    },
+    {
+        "timestamp": "2026-03-16T18:46:22.787405",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2315.8,
+        "amount": 0.6219,
+        "total_value": 1440.2
+    },
+    {
+        "timestamp": "2026-03-16T18:46:22.787251",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2315.8,
+        "amount": 1.4926,
+        "total_value": 3456.56
+    },
+    {
+        "timestamp": "2026-03-16T18:46:22.787091",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2315.8,
+        "amount": 0.0904,
+        "total_value": 209.35
+    },
+    {
+        "timestamp": "2026-03-16T18:46:22.786678",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2315.8,
+        "amount": 0.0284,
+        "total_value": 65.77
+    },
+    {
+        "timestamp": "2026-03-16T18:31:48.718579",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2312.2,
+        "amount": 0.013,
+        "total_value": 30.06
+    },
+    {
+        "timestamp": "2026-03-16T18:13:00.766786",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2305.6,
+        "amount": 3.5203,
+        "total_value": 8116.4
+    },
+    {
+        "timestamp": "2026-03-16T18:13:00.766603",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2305.6,
+        "amount": 0.1193,
+        "total_value": 275.06
+    },
+    {
+        "timestamp": "2026-03-16T18:13:00.766337",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2305.6,
+        "amount": 0.3104,
+        "total_value": 715.66
+    },
+    {
+        "timestamp": "2026-03-16T18:13:00.726753",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 73834.0,
+        "amount": 0.0025,
+        "total_value": 184.59
+    },
+    {
+        "timestamp": "2026-03-16T18:13:00.726643",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 73834.0,
+        "amount": 0.03813,
+        "total_value": 2815.29
+    },
+    {
+        "timestamp": "2026-03-16T18:13:00.726502",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 73834.0,
+        "amount": 0.03826,
+        "total_value": 2824.89
+    },
+    {
+        "timestamp": "2026-03-16T18:13:00.726359",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 73834.0,
+        "amount": 0.01083,
+        "total_value": 799.62
+    },
+    {
+        "timestamp": "2026-03-16T18:13:00.726031",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 73834.0,
+        "amount": 0.00203,
+        "total_value": 149.88
+    },
+    {
+        "timestamp": "2026-03-16T17:45:12.790560",
+        "symbol": "ZEC",
+        "position": "Short",
+        "price": 240.38,
+        "amount": 2.26,
+        "total_value": 543.26
+    },
+    {
+        "timestamp": "2026-03-16T17:45:12.790411",
+        "symbol": "ZEC",
+        "position": "Short",
+        "price": 240.37,
+        "amount": 0.09,
+        "total_value": 21.63
+    },
+    {
+        "timestamp": "2026-03-16T17:45:12.790291",
+        "symbol": "ZEC",
+        "position": "Short",
+        "price": 240.34,
+        "amount": 3.91,
+        "total_value": 939.73
+    },
+    {
+        "timestamp": "2026-03-16T17:45:12.788753",
+        "symbol": "ZEC",
+        "position": "Short",
+        "price": 240.33,
+        "amount": 5.74,
+        "total_value": 1379.49
+    },
+    {
+        "timestamp": "2026-03-16T15:59:39.739506",
+        "symbol": "XRP",
+        "position": "Short",
+        "price": 1.5042,
+        "amount": 2467.74,
+        "total_value": 3711.97
+    },
+    {
+        "timestamp": "2026-03-16T15:41:51.751721",
+        "symbol": "BTC",
+        "position": "Long",
+        "price": 73028.0,
+        "amount": 0.0036,
+        "total_value": 262.9
+    },
+    {
+        "timestamp": "2026-03-16T15:30:39.745291",
+        "symbol": "ETH",
+        "position": "Long",
+        "price": 2262.6,
+        "amount": 0.0966,
+        "total_value": 218.57
+    },
+    {
+        "timestamp": "2026-03-16T15:30:39.745126",
+        "symbol": "ETH",
+        "position": "Long",
+        "price": 2262.6,
+        "amount": 0.1216,
+        "total_value": 275.13
+    },
+    {
+        "timestamp": "2026-03-16T15:30:32.215874",
+        "symbol": "ETH",
+        "position": "Long",
+        "price": 2270.2,
+        "amount": 0.652,
+        "total_value": 1480.17
+    },
+    {
+        "timestamp": "2026-03-16T15:30:12.735014",
+        "symbol": "BTC",
+        "position": "Long",
+        "price": 73456.0,
+        "amount": 0.00698,
+        "total_value": 512.72
+    },
+    {
+        "timestamp": "2026-03-16T14:46:12.762695",
+        "symbol": "TAO",
+        "position": "Short",
+        "price": 296.69,
+        "amount": 0.19,
+        "total_value": 56.37
+    },
+    {
+        "timestamp": "2026-03-16T14:41:51.772814",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2304.8,
+        "amount": 0.1306,
+        "total_value": 301.01
+    },
+    {
+        "timestamp": "2026-03-16T14:41:51.772576",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2304.8,
+        "amount": 0.1194,
+        "total_value": 275.19
+    },
+    {
+        "timestamp": "2026-03-16T14:40:36.761642",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 74400.0,
+        "amount": 0.00026,
+        "total_value": 19.34
+    },
+    {
+        "timestamp": "2026-03-16T14:34:21.760459",
+        "symbol": "SOL",
+        "position": "Short",
+        "price": 94.84,
+        "amount": 1.77,
+        "total_value": 167.87
+    },
+    {
+        "timestamp": "2026-03-16T14:34:21.760230",
+        "symbol": "SOL",
+        "position": "Short",
+        "price": 94.84,
+        "amount": 0.14,
+        "total_value": 13.28
+    },
+    {
+        "timestamp": "2026-03-16T14:33:04.458273",
+        "symbol": "SOL",
+        "position": "Short",
+        "price": 94.66,
+        "amount": 3.42,
+        "total_value": 323.74
+    },
+    {
+        "timestamp": "2026-03-16T14:33:04.458046",
+        "symbol": "SOL",
+        "position": "Short",
+        "price": 94.66,
+        "amount": 1.05,
+        "total_value": 99.39
+    },
+    {
+        "timestamp": "2026-03-16T14:32:57.784004",
+        "symbol": "SOL",
+        "position": "Short",
+        "price": 94.67,
+        "amount": 7.07,
+        "total_value": 669.32
+    },
+    {
+        "timestamp": "2026-03-16T14:32:57.751187",
+        "symbol": "SOL",
+        "position": "Short",
+        "price": 94.67,
+        "amount": 1.05,
+        "total_value": 99.4
+    },
+    {
+        "timestamp": "2026-03-16T14:32:57.750979",
+        "symbol": "SOL",
+        "position": "Short",
+        "price": 94.67,
+        "amount": 0.48,
+        "total_value": 45.44
+    },
+    {
+        "timestamp": "2026-03-16T14:31:48.760783",
+        "symbol": "SOL",
+        "position": "Short",
+        "price": 94.39,
+        "amount": 14.66,
+        "total_value": 1383.76
+    },
+    {
+        "timestamp": "2026-03-16T14:31:48.760514",
+        "symbol": "SOL",
+        "position": "Short",
+        "price": 94.39,
+        "amount": 10.59,
+        "total_value": 999.59
+    },
+    {
+        "timestamp": "2026-03-16T13:04:09.779224",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2282.2,
+        "amount": 0.1398,
+        "total_value": 319.05
+    },
+    {
+        "timestamp": "2026-03-16T13:04:09.778997",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2282.2,
+        "amount": 0.1205,
+        "total_value": 275.01
+    },
+    {
+        "timestamp": "2026-03-16T13:04:06.801383",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2285.3,
+        "amount": 0.0462,
+        "total_value": 105.58
+    },
+    {
+        "timestamp": "2026-03-16T13:04:06.778141",
+        "symbol": "BTC",
+        "position": "Long",
+        "price": 73684.0,
+        "amount": 0.00128,
+        "total_value": 94.32
+    },
+    {
+        "timestamp": "2026-03-16T11:48:54.792210",
+        "symbol": "BP",
+        "position": "Long",
+        "price": 0.335,
+        "amount": 2097.3,
+        "total_value": 702.6
+    },
+    {
+        "timestamp": "2026-03-16T11:19:03.796638",
+        "symbol": "TAO",
+        "position": "Short",
+        "price": 288.9,
+        "amount": 0.27,
+        "total_value": 78.0
+    },
+    {
+        "timestamp": "2026-03-16T11:01:33.823270",
+        "symbol": "BTC",
+        "position": "Long",
+        "price": 73317.0,
+        "amount": 0.00927,
+        "total_value": 679.65
+    },
+    {
+        "timestamp": "2026-03-16T11:01:33.823195",
+        "symbol": "BTC",
+        "position": "Long",
+        "price": 73317.0,
+        "amount": 0.02727,
+        "total_value": 1999.35
+    },
+    {
+        "timestamp": "2026-03-16T11:01:33.823110",
+        "symbol": "BTC",
+        "position": "Long",
+        "price": 73318.0,
+        "amount": 0.01363,
+        "total_value": 999.32
+    },
+    {
+        "timestamp": "2026-03-16T11:01:33.823001",
+        "symbol": "BTC",
+        "position": "Long",
+        "price": 73318.0,
+        "amount": 0.01363,
+        "total_value": 999.32
+    },
+    {
+        "timestamp": "2026-03-16T11:01:33.822826",
+        "symbol": "BTC",
+        "position": "Long",
+        "price": 73322.0,
+        "amount": 0.00207,
+        "total_value": 151.78
+    },
+    {
+        "timestamp": "2026-03-16T11:01:33.800294",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2266.4,
+        "amount": 0.479,
+        "total_value": 1085.61
+    },
+    {
+        "timestamp": "2026-03-16T11:01:33.800199",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2266.4,
+        "amount": 0.2206,
+        "total_value": 499.97
+    },
+    {
+        "timestamp": "2026-03-16T11:01:33.800066",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2266.4,
+        "amount": 0.1214,
+        "total_value": 275.14
+    },
+    {
+        "timestamp": "2026-03-16T11:01:33.799827",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2266.4,
+        "amount": 1.62,
+        "total_value": 3671.57
+    },
+    {
+        "timestamp": "2026-03-16T10:59:27.799351",
+        "symbol": "XAG",
+        "position": "Long",
+        "price": 77.9,
+        "amount": 0.24,
+        "total_value": 18.7
+    },
+    {
+        "timestamp": "2026-03-16T10:59:24.800071",
+        "symbol": "XAG",
+        "position": "Long",
+        "price": 77.703,
+        "amount": 1.17,
+        "total_value": 90.91
+    },
+    {
+        "timestamp": "2026-03-16T10:59:24.799888",
+        "symbol": "XAG",
+        "position": "Long",
+        "price": 77.708,
+        "amount": 1.28,
+        "total_value": 99.47
+    },
+    {
+        "timestamp": "2026-03-16T10:59:24.799631",
+        "symbol": "XAG",
+        "position": "Long",
+        "price": 77.72,
+        "amount": 1.28,
+        "total_value": 99.48
+    },
+    {
+        "timestamp": "2026-03-16T09:45:15.325315",
+        "symbol": "BTC",
+        "position": "Long",
+        "price": 72883.0,
+        "amount": 0.00881,
+        "total_value": 642.1
+    },
+    {
+        "timestamp": "2026-03-16T09:45:15.311302",
+        "symbol": "BTC",
+        "position": "Long",
+        "price": 72883.0,
+        "amount": 0.00881,
+        "total_value": 642.1
+    },
+    {
+        "timestamp": "2026-03-16T09:45:06.814525",
+        "symbol": "ETH",
+        "position": "Long",
+        "price": 2235.9,
+        "amount": 0.0378,
+        "total_value": 84.52
+    },
+    {
+        "timestamp": "2026-03-16T09:45:03.857740",
+        "symbol": "BTC",
+        "position": "Long",
+        "price": 72892.0,
+        "amount": 0.01176,
+        "total_value": 857.21
+    },
+    {
+        "timestamp": "2026-03-16T09:45:03.827413",
+        "symbol": "BTC",
+        "position": "Long",
+        "price": 72892.0,
+        "amount": 0.00824,
+        "total_value": 600.63
+    },
+    {
+        "timestamp": "2026-03-16T09:45:03.811575",
+        "symbol": "ETH",
+        "position": "Long",
+        "price": 2236.6,
+        "amount": 0.0085,
+        "total_value": 19.01
+    },
+    {
+        "timestamp": "2026-03-16T08:29:18.826652",
+        "symbol": "HYPE",
+        "position": "Short",
+        "price": 39.204,
+        "amount": 23.51,
+        "total_value": 921.69
+    },
+    {
+        "timestamp": "2026-03-16T08:17:27.829654",
+        "symbol": "HYPE",
+        "position": "Short",
+        "price": 38.894,
+        "amount": 0.75,
+        "total_value": 29.17
+    },
+    {
+        "timestamp": "2026-03-16T08:16:39.888095",
+        "symbol": "HYPE",
+        "position": "Short",
+        "price": 38.821,
+        "amount": 1.19,
+        "total_value": 46.2
+    },
+    {
+        "timestamp": "2026-03-16T08:16:39.879817",
+        "symbol": "HYPE",
+        "position": "Short",
+        "price": 38.821,
+        "amount": 2.56,
+        "total_value": 99.38
+    },
+    {
+        "timestamp": "2026-03-16T08:14:07.331355",
+        "symbol": "HYPE",
+        "position": "Short",
+        "price": 38.803,
+        "amount": 17.24,
+        "total_value": 668.96
+    },
+    {
+        "timestamp": "2026-03-16T08:14:07.296581",
+        "symbol": "HYPE",
+        "position": "Short",
+        "price": 38.801,
+        "amount": 3.44,
+        "total_value": 133.48
+    },
+    {
+        "timestamp": "2026-03-16T08:14:07.263756",
+        "symbol": "HYPE",
+        "position": "Short",
+        "price": 38.8,
+        "amount": 267.96,
+        "total_value": 10396.85
+    },
+    {
+        "timestamp": "2026-03-16T08:14:07.228780",
+        "symbol": "HYPE",
+        "position": "Short",
+        "price": 38.8,
+        "amount": 2.56,
+        "total_value": 99.33
+    },
+    {
+        "timestamp": "2026-03-16T08:14:07.196600",
+        "symbol": "HYPE",
+        "position": "Short",
+        "price": 38.796,
+        "amount": 2.56,
+        "total_value": 99.32
+    },
+    {
+        "timestamp": "2026-03-16T08:14:07.159948",
+        "symbol": "HYPE",
+        "position": "Short",
+        "price": 38.795,
+        "amount": 14.17,
+        "total_value": 549.73
+    },
+    {
+        "timestamp": "2026-03-16T08:14:07.124529",
+        "symbol": "HYPE",
+        "position": "Short",
+        "price": 38.795,
+        "amount": 3.44,
+        "total_value": 133.45
+    },
+    {
+        "timestamp": "2026-03-16T08:14:07.086911",
+        "symbol": "HYPE",
+        "position": "Short",
+        "price": 38.793,
+        "amount": 3.44,
+        "total_value": 133.45
+    },
+    {
+        "timestamp": "2026-03-16T08:14:07.045802",
+        "symbol": "HYPE",
+        "position": "Short",
+        "price": 38.792,
+        "amount": 2.56,
+        "total_value": 99.31
+    },
+    {
+        "timestamp": "2026-03-16T08:14:06.965409",
+        "symbol": "HYPE",
+        "position": "Short",
+        "price": 38.791,
+        "amount": 5.15,
+        "total_value": 199.77
+    },
+    {
+        "timestamp": "2026-03-16T08:14:06.926586",
+        "symbol": "HYPE",
+        "position": "Short",
+        "price": 38.791,
+        "amount": 6.32,
+        "total_value": 245.16
+    },
+    {
+        "timestamp": "2026-03-16T08:14:06.850409",
+        "symbol": "HYPE",
+        "position": "Short",
+        "price": 38.791,
+        "amount": 128.9,
+        "total_value": 5000.16
+    },
+    {
+        "timestamp": "2026-03-16T08:14:06.832298",
+        "symbol": "HYPE",
+        "position": "Short",
+        "price": 38.791,
+        "amount": 3.44,
+        "total_value": 133.44
+    },
+    {
+        "timestamp": "2026-03-16T08:13:42.830360",
+        "symbol": "HYPE",
+        "position": "Short",
+        "price": 38.814,
+        "amount": 43.57,
+        "total_value": 1691.13
+    },
+    {
+        "timestamp": "2026-03-16T07:40:27.845993",
+        "symbol": "CRV",
+        "position": "Short",
+        "price": 0.2468,
+        "amount": 4018.0,
+        "total_value": 991.64
+    },
+    {
+        "timestamp": "2026-03-16T07:40:27.837928",
+        "symbol": "kPEPE",
+        "position": "Short",
+        "price": 0.003854,
+        "amount": 152389.0,
+        "total_value": 587.31
+    },
+    {
+        "timestamp": "2026-03-16T06:55:40.023341",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2279.4,
+        "amount": 0.05,
+        "total_value": 113.97
+    },
+    {
+        "timestamp": "2026-03-16T06:50:09.852024",
+        "symbol": "FARTCOIN",
+        "position": "Short",
+        "price": 0.1817,
+        "amount": 731.8,
+        "total_value": 132.97
+    },
+    {
+        "timestamp": "2026-03-16T05:55:07.012897",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2271.1,
+        "amount": 0.0789,
+        "total_value": 179.19
+    },
+    {
+        "timestamp": "2026-03-16T05:55:06.970111",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2271.1,
+        "amount": 0.1211,
+        "total_value": 275.03
+    },
+    {
+        "timestamp": "2026-03-16T05:55:06.927154",
+        "symbol": "SOL",
+        "position": "Short",
+        "price": 94.0,
+        "amount": 0.15,
+        "total_value": 14.1
+    },
+    {
+        "timestamp": "2026-03-16T05:55:06.891201",
+        "symbol": "BTC",
+        "position": "Long",
+        "price": 74234.0,
+        "amount": 0.0008,
+        "total_value": 59.39
+    },
+    {
+        "timestamp": "2026-03-16T05:55:06.873171",
+        "symbol": "ENA",
+        "position": "Short",
+        "price": 0.11398,
+        "amount": 9200.0,
+        "total_value": 1048.62
+    },
+    {
+        "timestamp": "2026-03-16T05:41:24.878518",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2266.9,
+        "amount": 0.2597,
+        "total_value": 588.71
+    },
+    {
+        "timestamp": "2026-03-16T05:41:24.870684",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2266.9,
+        "amount": 0.2205,
+        "total_value": 499.85
+    },
+    {
+        "timestamp": "2026-03-16T05:38:30.926829",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2261.2,
+        "amount": 1.0572,
+        "total_value": 2390.54
+    },
+    {
+        "timestamp": "2026-03-16T05:38:30.904402",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2261.2,
+        "amount": 0.2211,
+        "total_value": 499.95
+    },
+    {
+        "timestamp": "2026-03-16T05:38:30.879949",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2261.2,
+        "amount": 0.1217,
+        "total_value": 275.19
+    },
+    {
+        "timestamp": "2026-03-16T05:38:30.872510",
+        "symbol": "BTC",
+        "position": "Long",
+        "price": 73641.0,
+        "amount": 0.06,
+        "total_value": 4418.46
+    },
+    {
+        "timestamp": "2026-03-16T05:36:54.878950",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2264.1,
+        "amount": 0.6365,
+        "total_value": 1441.1
+    },
+    {
+        "timestamp": "2026-03-16T05:36:54.871664",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2264.1,
+        "amount": 0.4417,
+        "total_value": 1000.05
+    },
+    {
+        "timestamp": "2026-03-16T05:30:46.036104",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2254.3,
+        "amount": 1.068,
+        "total_value": 2407.59
+    },
+    {
+        "timestamp": "2026-03-16T05:30:45.991359",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2254.3,
+        "amount": 0.122,
+        "total_value": 275.02
+    },
+    {
+        "timestamp": "2026-03-16T05:30:45.936493",
+        "symbol": "BTC",
+        "position": "Long",
+        "price": 73627.0,
+        "amount": 0.01328,
+        "total_value": 977.77
+    },
+    {
+        "timestamp": "2026-03-16T05:30:45.895171",
+        "symbol": "BTC",
+        "position": "Long",
+        "price": 73627.0,
+        "amount": 0.01357,
+        "total_value": 999.12
+    },
+    {
+        "timestamp": "2026-03-16T05:30:45.878355",
+        "symbol": "BTC",
+        "position": "Long",
+        "price": 73627.0,
+        "amount": 0.00815,
+        "total_value": 600.06
+    },
+    {
+        "timestamp": "2026-03-16T05:23:39.877391",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2256.6,
+        "amount": 0.0152,
+        "total_value": 34.3
+    },
+    {
+        "timestamp": "2026-03-16T04:40:22.426802",
+        "symbol": "SOL",
+        "position": "Short",
+        "price": 93.91,
+        "amount": 0.27,
+        "total_value": 25.36
+    },
+    {
+        "timestamp": "2026-03-16T04:40:22.396973",
+        "symbol": "BNB",
+        "position": "Short",
+        "price": 685.74,
+        "amount": 0.403,
+        "total_value": 276.35
+    },
+    {
+        "timestamp": "2026-03-16T04:40:22.364201",
+        "symbol": "BNB",
+        "position": "Short",
+        "price": 685.74,
+        "amount": 1.124,
+        "total_value": 770.77
+    },
+    {
+        "timestamp": "2026-03-16T04:40:22.328618",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 74276.0,
+        "amount": 0.0002,
+        "total_value": 14.86
+    },
+    {
+        "timestamp": "2026-03-16T04:40:22.291350",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 74276.0,
+        "amount": 0.03374,
+        "total_value": 2506.07
+    },
+    {
+        "timestamp": "2026-03-16T04:40:22.258016",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 74276.0,
+        "amount": 0.00055,
+        "total_value": 40.85
+    },
+    {
+        "timestamp": "2026-03-16T04:40:22.220341",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 74276.0,
+        "amount": 0.06945,
+        "total_value": 5158.47
+    },
+    {
+        "timestamp": "2026-03-16T04:40:22.185477",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 74276.0,
+        "amount": 0.00138,
+        "total_value": 102.5
+    },
+    {
+        "timestamp": "2026-03-16T04:40:22.156440",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 74276.0,
+        "amount": 0.00759,
+        "total_value": 563.75
+    },
+    {
+        "timestamp": "2026-03-16T04:40:22.121700",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 74276.0,
+        "amount": 0.00897,
+        "total_value": 666.26
+    },
+    {
+        "timestamp": "2026-03-16T04:40:22.089387",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 74276.0,
+        "amount": 0.00448,
+        "total_value": 332.76
+    },
+    {
+        "timestamp": "2026-03-16T04:40:22.058717",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 74276.0,
+        "amount": 0.00448,
+        "total_value": 332.76
+    },
+    {
+        "timestamp": "2026-03-16T04:40:22.027340",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 74276.0,
+        "amount": 0.00448,
+        "total_value": 332.76
+    },
+    {
+        "timestamp": "2026-03-16T04:40:21.997092",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2250.3,
+        "amount": 0.0582,
+        "total_value": 130.97
+    },
+    {
+        "timestamp": "2026-03-16T04:40:21.964756",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2250.3,
+        "amount": 0.2293,
+        "total_value": 515.99
+    },
+    {
+        "timestamp": "2026-03-16T04:40:21.928133",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2250.3,
+        "amount": 0.4467,
+        "total_value": 1005.21
+    },
+    {
+        "timestamp": "2026-03-16T04:40:21.891646",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2250.3,
+        "amount": 0.324,
+        "total_value": 729.1
+    },
+    {
+        "timestamp": "2026-03-16T04:40:21.422853",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 74266.0,
+        "amount": 0.00015,
+        "total_value": 11.14
+    },
+    {
+        "timestamp": "2026-03-16T04:40:21.387793",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 74266.0,
+        "amount": 0.00015,
+        "total_value": 11.14
+    },
+    {
+        "timestamp": "2026-03-16T04:40:18.975743",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 74273.0,
+        "amount": 0.00097,
+        "total_value": 72.04
+    },
+    {
+        "timestamp": "2026-03-16T04:40:18.948050",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 74273.0,
+        "amount": 0.0041,
+        "total_value": 304.52
+    },
+    {
+        "timestamp": "2026-03-16T04:40:18.920973",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 74273.0,
+        "amount": 0.00538,
+        "total_value": 399.59
+    },
+    {
+        "timestamp": "2026-03-16T04:40:18.894871",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 74273.0,
+        "amount": 0.00538,
+        "total_value": 399.59
+    },
+    {
+        "timestamp": "2026-03-16T04:40:18.886899",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 74273.0,
+        "amount": 0.00014,
+        "total_value": 10.4
+    },
+    {
+        "timestamp": "2026-03-16T04:39:45.916893",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 73980.0,
+        "amount": 0.00588,
+        "total_value": 435.0
+    },
+    {
+        "timestamp": "2026-03-16T04:39:45.893409",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 73980.0,
+        "amount": 0.0029,
+        "total_value": 214.54
+    },
+    {
+        "timestamp": "2026-03-16T04:39:45.887312",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 73980.0,
+        "amount": 0.00385,
+        "total_value": 284.82
+    },
+    {
+        "timestamp": "2026-03-16T04:38:21.977914",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 73943.0,
+        "amount": 0.01866,
+        "total_value": 1379.78
+    },
+    {
+        "timestamp": "2026-03-16T04:38:21.947153",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 73943.0,
+        "amount": 0.00676,
+        "total_value": 499.85
+    },
+    {
+        "timestamp": "2026-03-16T04:38:21.916484",
+        "symbol": "XRP",
+        "position": "Short",
+        "price": 1.4769,
+        "amount": 96.2,
+        "total_value": 142.08
+    },
+    {
+        "timestamp": "2026-03-16T04:38:21.888346",
+        "symbol": "XRP",
+        "position": "Short",
+        "price": 1.4769,
+        "amount": 67.04,
+        "total_value": 99.01
+    },
+    {
+        "timestamp": "2026-03-16T04:38:18.957794",
+        "symbol": "AVAX",
+        "position": "Short",
+        "price": 10.396,
+        "amount": 41.11,
+        "total_value": 427.38
+    },
+    {
+        "timestamp": "2026-03-16T04:38:18.906878",
+        "symbol": "HYPE",
+        "position": "Short",
+        "price": 38.111,
+        "amount": 3.39,
+        "total_value": 129.2
+    },
+    {
+        "timestamp": "2026-03-16T04:38:18.888845",
+        "symbol": "HYPE",
+        "position": "Short",
+        "price": 38.11,
+        "amount": 2.6,
+        "total_value": 99.09
+    },
+    {
+        "timestamp": "2026-03-16T04:38:15.887782",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 73954.0,
+        "amount": 0.00861,
+        "total_value": 636.74
+    },
+    {
+        "timestamp": "2026-03-16T04:37:24.888965",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 73830.0,
+        "amount": 0.00207,
+        "total_value": 152.83
+    },
+    {
+        "timestamp": "2026-03-16T04:37:24.878749",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 73830.0,
+        "amount": 0.00375,
+        "total_value": 276.86
+    },
+    {
+        "timestamp": "2026-03-16T04:35:00.890376",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 73714.0,
+        "amount": 0.00017,
+        "total_value": 12.53
+    },
+    {
+        "timestamp": "2026-03-16T04:34:57.894943",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 73738.0,
+        "amount": 0.02813,
+        "total_value": 2074.25
+    },
+    {
+        "timestamp": "2026-03-16T04:34:57.889302",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 73738.0,
+        "amount": 0.0036,
+        "total_value": 265.46
+    },
+    {
+        "timestamp": "2026-03-16T04:34:40.003690",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 73626.0,
+        "amount": 0.0108,
+        "total_value": 795.16
+    },
+    {
+        "timestamp": "2026-03-16T04:34:39.981089",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 73626.0,
+        "amount": 0.00543,
+        "total_value": 399.79
+    },
+    {
+        "timestamp": "2026-03-16T04:34:39.957791",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 73626.0,
+        "amount": 0.00027,
+        "total_value": 19.88
+    },
+    {
+        "timestamp": "2026-03-16T04:34:39.934536",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 73626.0,
+        "amount": 0.00543,
+        "total_value": 399.79
+    },
+    {
+        "timestamp": "2026-03-16T04:34:39.911705",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 73626.0,
+        "amount": 0.00815,
+        "total_value": 600.05
+    },
+    {
+        "timestamp": "2026-03-16T04:34:39.890007",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 73626.0,
+        "amount": 0.00543,
+        "total_value": 399.79
+    },
+    {
+        "timestamp": "2026-03-16T04:34:36.878269",
+        "symbol": "XRP",
+        "position": "Short",
+        "price": 1.4739,
+        "amount": 7.73,
+        "total_value": 11.39
+    },
+    {
+        "timestamp": "2026-03-16T04:34:06.877947",
+        "symbol": "ARB",
+        "position": "Short",
+        "price": 0.10651,
+        "amount": 1633.2,
+        "total_value": 173.95
+    },
+    {
+        "timestamp": "2026-03-16T04:33:57.914281",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 73570.0,
+        "amount": 0.01189,
+        "total_value": 874.75
+    },
+    {
+        "timestamp": "2026-03-16T04:33:57.891482",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 73570.0,
+        "amount": 0.00993,
+        "total_value": 730.55
+    },
+    {
+        "timestamp": "2026-03-16T04:33:54.883440",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 73545.0,
+        "amount": 0.00821,
+        "total_value": 603.8
+    },
+    {
+        "timestamp": "2026-03-16T04:33:54.878331",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 73545.0,
+        "amount": 0.00679,
+        "total_value": 499.37
+    },
+    {
+        "timestamp": "2026-03-16T04:33:18.887839",
+        "symbol": "SOL",
+        "position": "Short",
+        "price": 93.28,
+        "amount": 1.25,
+        "total_value": 116.6
+    },
+    {
+        "timestamp": "2026-03-16T04:33:16.033607",
+        "symbol": "ETH",
+        "position": "Long",
+        "price": 2235.1,
+        "amount": 0.0139,
+        "total_value": 31.07
+    },
+    {
+        "timestamp": "2026-03-16T04:33:16.011252",
+        "symbol": "DOGE",
+        "position": "Short",
+        "price": 0.10074,
+        "amount": 489.0,
+        "total_value": 49.26
+    },
+    {
+        "timestamp": "2026-03-16T04:33:15.986875",
+        "symbol": "HYPE",
+        "position": "Short",
+        "price": 37.865,
+        "amount": 1.81,
+        "total_value": 68.54
+    },
+    {
+        "timestamp": "2026-03-16T04:33:15.966676",
+        "symbol": "SOL",
+        "position": "Short",
+        "price": 93.37,
+        "amount": 1.18,
+        "total_value": 110.18
+    },
+    {
+        "timestamp": "2026-03-16T04:33:15.946221",
+        "symbol": "kPEPE",
+        "position": "Long",
+        "price": 0.003593,
+        "amount": 8801.0,
+        "total_value": 31.62
+    },
+    {
+        "timestamp": "2026-03-16T04:33:15.921514",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 73387.0,
+        "amount": 0.00027,
+        "total_value": 19.81
+    },
+    {
+        "timestamp": "2026-03-16T04:33:15.898401",
+        "symbol": "XRP",
+        "position": "Long",
+        "price": 1.4671,
+        "amount": 30.04,
+        "total_value": 44.07
+    },
+    {
+        "timestamp": "2026-03-16T04:33:15.892890",
+        "symbol": "XAG",
+        "position": "Long",
+        "price": 80.07,
+        "amount": 0.55,
+        "total_value": 44.04
+    },
+    {
+        "timestamp": "2026-03-16T04:32:54.897710",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2229.5,
+        "amount": 0.1841,
+        "total_value": 410.45
+    },
+    {
+        "timestamp": "2026-03-16T04:32:54.892616",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2229.5,
+        "amount": 0.3659,
+        "total_value": 815.77
+    },
+    {
+        "timestamp": "2026-03-16T04:31:27.891865",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 73209.0,
+        "amount": 0.00306,
+        "total_value": 224.02
+    },
+    {
+        "timestamp": "2026-03-16T04:31:03.994494",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2222.7,
+        "amount": 0.0105,
+        "total_value": 23.34
+    },
+    {
+        "timestamp": "2026-03-16T04:31:03.968926",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2222.7,
+        "amount": 0.007,
+        "total_value": 15.56
+    },
+    {
+        "timestamp": "2026-03-16T04:31:03.941888",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2222.7,
+        "amount": 0.014,
+        "total_value": 31.12
+    },
+    {
+        "timestamp": "2026-03-16T04:31:03.915792",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2222.7,
+        "amount": 0.1057,
+        "total_value": 234.94
+    },
+    {
+        "timestamp": "2026-03-16T04:31:03.889869",
+        "symbol": "BTC",
+        "position": "Long",
+        "price": 73162.0,
+        "amount": 0.00286,
+        "total_value": 209.24
+    },
+    {
+        "timestamp": "2026-03-16T04:31:03.403166",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2228.1,
+        "amount": 0.2657,
+        "total_value": 592.01
+    },
+    {
+        "timestamp": "2026-03-16T04:31:03.390066",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2228.1,
+        "amount": 0.2657,
+        "total_value": 592.01
+    },
+    {
+        "timestamp": "2026-03-16T04:30:42.924282",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2216.4,
+        "amount": 0.4144,
+        "total_value": 918.48
+    },
+    {
+        "timestamp": "2026-03-16T04:30:42.900553",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2216.4,
+        "amount": 0.2256,
+        "total_value": 500.02
+    },
+    {
+        "timestamp": "2026-03-16T04:30:42.895542",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2216.4,
+        "amount": 0.4511,
+        "total_value": 999.82
+    },
+    {
+        "timestamp": "2026-03-16T02:30:57.931598",
+        "symbol": "TRUMP",
+        "position": "Short",
+        "price": 4.2478,
+        "amount": 583.3,
+        "total_value": 2477.74
+    },
+    {
+        "timestamp": "2026-03-16T02:30:57.925179",
+        "symbol": "TRUMP",
+        "position": "Short",
+        "price": 4.2467,
+        "amount": 112.4,
+        "total_value": 477.33
+    },
+    {
+        "timestamp": "2026-03-16T02:23:21.924004",
+        "symbol": "kPEPE",
+        "position": "Short",
+        "price": 0.003511,
+        "amount": 32391.0,
+        "total_value": 113.72
+    },
+    {
+        "timestamp": "2026-03-16T01:07:18.943023",
+        "symbol": "CL",
+        "position": "Long",
+        "price": 96.521,
+        "amount": 1.4,
+        "total_value": 135.13
+    },
+    {
+        "timestamp": "2026-03-16T01:07:18.936177",
+        "symbol": "CL",
+        "position": "Long",
+        "price": 96.6,
+        "amount": 0.21,
+        "total_value": 20.29
+    },
+    {
+        "timestamp": "2026-03-16T01:03:27.950020",
+        "symbol": "CL",
+        "position": "Long",
+        "price": 96.685,
+        "amount": 5.12,
+        "total_value": 495.03
+    },
+    {
+        "timestamp": "2026-03-16T01:03:27.944074",
+        "symbol": "CL",
+        "position": "Long",
+        "price": 96.7,
+        "amount": 0.21,
+        "total_value": 20.31
+    },
+    {
+        "timestamp": "2026-03-16T00:29:49.205955",
+        "symbol": "ETH",
+        "position": "Long",
+        "price": 2173.0,
+        "amount": 0.0234,
+        "total_value": 50.85
+    },
+    {
+        "timestamp": "2026-03-16T00:29:49.198399",
+        "symbol": "ETH",
+        "position": "Long",
+        "price": 2173.0,
+        "amount": 0.1266,
+        "total_value": 275.1
+    },
+    {
+        "timestamp": "2026-03-16T00:09:06.962282",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2200.1,
+        "amount": 0.0896,
+        "total_value": 197.13
+    },
+    {
+        "timestamp": "2026-03-16T00:08:40.000706",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2196.5,
+        "amount": 0.1724,
+        "total_value": 378.68
+    },
+    {
+        "timestamp": "2026-03-16T00:08:39.968403",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2196.5,
+        "amount": 0.2276,
+        "total_value": 499.92
+    },
+    {
+        "timestamp": "2026-03-16T00:08:39.961461",
+        "symbol": "BTC",
+        "position": "Long",
+        "price": 72975.0,
+        "amount": 0.0124,
+        "total_value": 904.89
+    },
+    {
+        "timestamp": "2026-03-16T00:06:42.959933",
+        "symbol": "DOGE",
+        "position": "Short",
+        "price": 0.09785,
+        "amount": 3304.0,
+        "total_value": 323.3
+    },
+    {
+        "timestamp": "2026-03-16T00:06:36.973197",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 73148.0,
+        "amount": 0.00504,
+        "total_value": 368.67
+    },
+    {
+        "timestamp": "2026-03-16T00:06:36.960655",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 73148.0,
+        "amount": 0.00821,
+        "total_value": 600.55
+    },
+    {
+        "timestamp": "2026-03-16T00:06:33.968371",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 73164.0,
+        "amount": 0.00475,
+        "total_value": 347.53
+    },
+    {
+        "timestamp": "2026-03-16T00:06:33.962131",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 73152.0,
+        "amount": 0.00076,
+        "total_value": 55.6
+    },
+    {
+        "timestamp": "2026-03-16T00:05:30.970680",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2192.3,
+        "amount": 0.2174,
+        "total_value": 476.61
+    },
+    {
+        "timestamp": "2026-03-16T00:05:30.965867",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2192.2,
+        "amount": 0.228,
+        "total_value": 499.82
+    },
+    {
+        "timestamp": "2026-03-15T23:53:09.966418",
+        "symbol": "SOL",
+        "position": "Short",
+        "price": 92.74,
+        "amount": 27.83,
+        "total_value": 2580.95
+    },
+    {
+        "timestamp": "2026-03-15T23:53:09.962254",
+        "symbol": "SOL",
+        "position": "Short",
+        "price": 92.74,
+        "amount": 1.07,
+        "total_value": 99.23
+    },
+    {
+        "timestamp": "2026-03-15T23:53:01.093090",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 72994.0,
+        "amount": 0.03382,
+        "total_value": 2468.66
+    },
+    {
+        "timestamp": "2026-03-15T23:53:01.074261",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 72993.0,
+        "amount": 0.01369,
+        "total_value": 999.27
+    },
+    {
+        "timestamp": "2026-03-15T23:53:01.055576",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 72993.0,
+        "amount": 0.00684,
+        "total_value": 499.27
+    },
+    {
+        "timestamp": "2026-03-15T23:53:01.037680",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 72992.0,
+        "amount": 0.00021,
+        "total_value": 15.33
+    },
+    {
+        "timestamp": "2026-03-15T23:53:01.020205",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 72991.0,
+        "amount": 0.00685,
+        "total_value": 499.99
+    },
+    {
+        "timestamp": "2026-03-15T23:53:01.001296",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 72990.0,
+        "amount": 0.00685,
+        "total_value": 499.98
+    },
+    {
+        "timestamp": "2026-03-15T23:53:00.984358",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 72989.0,
+        "amount": 0.00685,
+        "total_value": 499.97
+    },
+    {
+        "timestamp": "2026-03-15T23:53:00.965412",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 72989.0,
+        "amount": 0.00685,
+        "total_value": 499.97
+    },
+    {
+        "timestamp": "2026-03-15T23:52:58.054430",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2190.3,
+        "amount": 0.2758,
+        "total_value": 604.08
+    },
+    {
+        "timestamp": "2026-03-15T23:52:58.039392",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2190.3,
+        "amount": 0.2282,
+        "total_value": 499.83
+    },
+    {
+        "timestamp": "2026-03-15T23:52:58.025114",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2190.3,
+        "amount": 0.1256,
+        "total_value": 275.1
+    },
+    {
+        "timestamp": "2026-03-15T23:52:58.009295",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 72994.0,
+        "amount": 0.00927,
+        "total_value": 676.65
+    },
+    {
+        "timestamp": "2026-03-15T23:52:57.994110",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 72994.0,
+        "amount": 0.10564,
+        "total_value": 7711.09
+    },
+    {
+        "timestamp": "2026-03-15T23:52:57.979152",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 72994.0,
+        "amount": 0.00184,
+        "total_value": 134.31
+    },
+    {
+        "timestamp": "2026-03-15T23:52:57.964019",
+        "symbol": "SOL",
+        "position": "Short",
+        "price": 92.78,
+        "amount": 0.39,
+        "total_value": 36.18
+    },
+    {
+        "timestamp": "2026-03-15T23:52:57.603342",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 73004.0,
+        "amount": 0.00032,
+        "total_value": 23.36
+    },
+    {
+        "timestamp": "2026-03-15T23:52:57.586773",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 73004.0,
+        "amount": 0.00032,
+        "total_value": 23.36
+    },
+    {
+        "timestamp": "2026-03-15T23:52:57.570257",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 73004.0,
+        "amount": 0.00347,
+        "total_value": 253.32
+    },
+    {
+        "timestamp": "2026-03-15T23:52:57.553524",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 73004.0,
+        "amount": 0.00347,
+        "total_value": 253.32
+    },
+    {
+        "timestamp": "2026-03-15T23:52:57.537048",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 73004.0,
+        "amount": 0.00112,
+        "total_value": 81.76
+    },
+    {
+        "timestamp": "2026-03-15T23:52:57.521508",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 73004.0,
+        "amount": 0.00112,
+        "total_value": 81.76
+    },
+    {
+        "timestamp": "2026-03-15T23:52:57.505718",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 73004.0,
+        "amount": 0.00257,
+        "total_value": 187.62
+    },
+    {
+        "timestamp": "2026-03-15T23:52:57.490930",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 73004.0,
+        "amount": 0.00257,
+        "total_value": 187.62
+    },
+    {
+        "timestamp": "2026-03-15T23:52:57.473398",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 73004.0,
+        "amount": 0.04403,
+        "total_value": 3214.37
+    },
+    {
+        "timestamp": "2026-03-15T23:52:57.468952",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 73004.0,
+        "amount": 0.04403,
+        "total_value": 3214.37
+    },
+    {
+        "timestamp": "2026-03-15T23:52:48.965469",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2186.8,
+        "amount": 0.5827,
+        "total_value": 1274.25
+    },
+    {
+        "timestamp": "2026-03-15T23:52:48.951923",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2186.8,
+        "amount": 0.1258,
+        "total_value": 275.1
+    },
+    {
+        "timestamp": "2026-03-15T23:52:42.952835",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 72665.0,
+        "amount": 0.00022,
+        "total_value": 15.99
+    },
+    {
+        "timestamp": "2026-03-15T23:52:30.966406",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 72621.0,
+        "amount": 0.01085,
+        "total_value": 787.94
+    },
+    {
+        "timestamp": "2026-03-15T23:52:30.962900",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 72621.0,
+        "amount": 0.00827,
+        "total_value": 600.58
+    },
+    {
+        "timestamp": "2026-03-15T23:51:09.963113",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 72608.0,
+        "amount": 0.0026,
+        "total_value": 188.78
+    },
+    {
+        "timestamp": "2026-03-15T23:50:24.964479",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 72536.0,
+        "amount": 1e-05,
+        "total_value": 0.73
+    },
+    {
+        "timestamp": "2026-03-15T23:39:16.050327",
+        "symbol": "BTC",
+        "position": "Long",
+        "price": 72224.0,
+        "amount": 0.00764,
+        "total_value": 551.79
+    },
+    {
+        "timestamp": "2026-03-15T23:39:16.032053",
+        "symbol": "BTC",
+        "position": "Long",
+        "price": 72224.0,
+        "amount": 0.01384,
+        "total_value": 999.58
+    },
+    {
+        "timestamp": "2026-03-15T23:39:16.017188",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2164.3,
+        "amount": 0.0875,
+        "total_value": 189.38
+    },
+    {
+        "timestamp": "2026-03-15T23:39:15.997362",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2164.3,
+        "amount": 0.3144,
+        "total_value": 680.46
+    },
+    {
+        "timestamp": "2026-03-15T23:39:15.981222",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2164.2,
+        "amount": 0.1271,
+        "total_value": 275.07
+    },
+    {
+        "timestamp": "2026-03-15T23:39:15.964057",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2164.2,
+        "amount": 0.231,
+        "total_value": 499.93
+    },
+    {
+        "timestamp": "2026-03-15T23:39:15.955145",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2164.1,
+        "amount": 0.1271,
+        "total_value": 275.06
+    },
+    {
+        "timestamp": "2026-03-15T23:38:58.064165",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2159.9,
+        "amount": 0.6448,
+        "total_value": 1392.7
+    },
+    {
+        "timestamp": "2026-03-15T23:38:58.041422",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2159.8,
+        "amount": 0.1274,
+        "total_value": 275.16
+    },
+    {
+        "timestamp": "2026-03-15T23:38:58.020612",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2159.7,
+        "amount": 0.1274,
+        "total_value": 275.15
+    },
+    {
+        "timestamp": "2026-03-15T23:38:57.996178",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2159.7,
+        "amount": 0.0445,
+        "total_value": 96.11
+    },
+    {
+        "timestamp": "2026-03-15T23:38:57.969689",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2159.5,
+        "amount": 0.0441,
+        "total_value": 95.23
+    },
+    {
+        "timestamp": "2026-03-15T23:38:57.965363",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2159.5,
+        "amount": 0.0159,
+        "total_value": 34.34
+    },
+    {
+        "timestamp": "2026-03-15T23:32:45.965821",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2154.8,
+        "amount": 0.0095,
+        "total_value": 20.47
+    },
+    {
+        "timestamp": "2026-03-15T23:32:27.966615",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2150.7,
+        "amount": 0.011,
+        "total_value": 23.66
+    },
+    {
+        "timestamp": "2026-03-15T23:04:57.970474",
+        "symbol": "SOL",
+        "position": "Short",
+        "price": 90.92,
+        "amount": 0.45,
+        "total_value": 40.91
+    },
+    {
+        "timestamp": "2026-03-15T23:03:39.975126",
+        "symbol": "SOL",
+        "position": "Short",
+        "price": 90.56,
+        "amount": 0.51,
+        "total_value": 46.19
+    },
+    {
+        "timestamp": "2026-03-15T23:02:42.970660",
+        "symbol": "XRP",
+        "position": "Short",
+        "price": 1.4308,
+        "amount": 18.66,
+        "total_value": 26.7
+    },
+    {
+        "timestamp": "2026-03-15T22:54:18.972391",
+        "symbol": "ZEC",
+        "position": "Short",
+        "price": 238.92,
+        "amount": 0.41,
+        "total_value": 97.96
+    },
+    {
+        "timestamp": "2026-03-15T22:45:40.025704",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2142.7,
+        "amount": 0.6347,
+        "total_value": 1359.97
+    },
+    {
+        "timestamp": "2026-03-15T22:45:40.002779",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2142.5,
+        "amount": 0.0065,
+        "total_value": 13.93
+    },
+    {
+        "timestamp": "2026-03-15T22:45:39.983276",
+        "symbol": "HYPE",
+        "position": "Short",
+        "price": 37.254,
+        "amount": 21.51,
+        "total_value": 801.33
+    },
+    {
+        "timestamp": "2026-03-15T22:37:55.045346",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 72143.0,
+        "amount": 0.00188,
+        "total_value": 135.63
+    },
+    {
+        "timestamp": "2026-03-15T22:37:54.993050",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 72143.0,
+        "amount": 0.00135,
+        "total_value": 97.39
+    },
+    {
+        "timestamp": "2026-03-15T22:37:54.975258",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 72143.0,
+        "amount": 0.01251,
+        "total_value": 902.51
+    },
+    {
+        "timestamp": "2026-03-15T22:37:52.057508",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 72164.0,
+        "amount": 0.012,
+        "total_value": 865.97
+    },
+    {
+        "timestamp": "2026-03-15T22:37:52.035199",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 72164.0,
+        "amount": 0.01385,
+        "total_value": 999.47
+    },
+    {
+        "timestamp": "2026-03-15T22:37:51.975132",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 72164.0,
+        "amount": 0.01283,
+        "total_value": 925.86
+    },
+    {
+        "timestamp": "2026-03-15T22:37:45.974167",
+        "symbol": "BTC",
+        "position": "Short",
+        "price": 71980.0,
+        "amount": 0.01317,
+        "total_value": 947.98
+    },
+    {
+        "timestamp": "2026-03-15T21:39:27.988233",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2137.8,
+        "amount": 0.1071,
+        "total_value": 228.96
+    },
+    {
+        "timestamp": "2026-03-15T21:39:27.985952",
+        "symbol": "ETH",
+        "position": "Short",
+        "price": 2137.4,
+        "amount": 0.0264,
+        "total_value": 56.43
+    },
+    {
+        "timestamp": "2026-03-15T19:06:46.033451",
+        "symbol": "TAO",
+        "position": "Short",
+        "price": 286.04,
+        "amount": 0.13,
+        "total_value": 37.19
+    },
+    {
+        "timestamp": "2026-03-15T19:06:25.173066",
+        "symbol": "TAO",
+        "position": "Short",
+        "price": 284.51,
+        "amount": 1.39,
+        "total_value": 395.47
+    },
+    {
+        "timestamp": "2026-03-15T19:06:25.120313",
+        "symbol": "TAO",
+        "position": "Short",
+        "price": 284.34,
+        "amount": 0.35,
+        "total_value": 99.52
+    },
+    {
+        "timestamp": "2026-03-15T19:06:25.087678",
+        "symbol": "TAO",
+        "position": "Short",
+        "price": 284.28,
+        "amount": 0.35,
+        "total_value": 99.5
+    },
+    {
+        "timestamp": "2026-03-15T19:06:25.047200",
+        "symbol": "TAO",
+        "position": "Short",
+        "price": 284.22,
+        "amount": 0.35,
+        "total_value": 99.48
+    },
+    {
+        "timestamp": "2026-03-15T19:06:25.025880",
+        "symbol": "TAO",
+        "position": "Short",
+        "price": 284.12,
+        "amount": 0.35,
+        "total_value": 99.44
+    },
+    {
+        "timestamp": "2026-03-15T16:02:01.066083",
+        "symbol": "TAO",
+        "position": "Short",
+        "price": 274.37,
+        "amount": 0.78,
+        "total_value": 214.01
+    },
+    {
+        "timestamp": "2026-03-15T15:37:43.073788",
+        "symbol": "TAO",
+        "position": "Short",
+        "price": 272.48,
+        "amount": 0.12,
+        "total_value": 32.7
+    },
+    {
+        "timestamp": "2026-03-15T15:37:43.072433",
+        "symbol": "TAO",
+        "position": "Short",
+        "price": 272.42,
+        "amount": 0.37,
+        "total_value": 100.8
+    }
+]
