@@ -1,0 +1,17 @@
+# Базы данных
+*.db
+*.sqlite3
+
+# Python
+backend/.venv/
+backend/__pycache__/
+*.pyc
+
+# Node.js (Фронтенд)
+front/node_modules/
+front/dist/
+
+# Среда разработки
+.idea/
+.vscode/
+.env

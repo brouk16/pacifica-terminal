@@ -27,16 +27,7 @@ def init_db():
     conn = sqlite3.connect(DB_PATH)
     cursor = conn.cursor()
     cursor.execute('''CREATE TABLE IF NOT EXISTS heatmap
-                      (
-                          t
-                          INTEGER
-                          PRIMARY
-                          KEY,
-                          bids
-                          TEXT,
-                          asks
-                          TEXT
-                      )''')
+                      (t INTEGER PRIMARY KEY, bids TEXT, asks TEXT)''')
     conn.commit()
     conn.close()
     print(f"🗄️ База данных готова (локально): {DB_PATH}")
@@ -99,7 +90,6 @@ async def run_scanner():
         try:
             print("🌊 Подключаюсь к Pacifica WS...")
             async with websockets.connect(WS_URL) as ws:
-                # 🔥 ВЕРНУЛИ ПРОВЕРЕННЫЙ ШАГ: 10
                 await ws.send(
                     json.dumps({"method": "subscribe", "params": {"source": "book", "symbol": "BTC", "agg_level": 10}}))
                 for tf in TIMEFRAMES:
@@ -108,24 +98,18 @@ async def run_scanner():
 
                 async for message in ws:
                     data = json.loads(message)
-
-                    # Отлов ошибок от биржи
                     if "error" in data:
-                        print(f"❌ Ошибка от биржи: {data}")
                         continue
 
                     channel = data.get("channel", "")
 
                     if channel == "book":
                         order_levels = data.get("data", {}).get("l", [[], []])
-
-                        # 🔥 РАСШИРЯЕМ ЗРЕНИЕ В 6 РАЗ! Берем 300 уровней (по 10$ = 3000$ вверх и вниз)
                         bids = order_levels[0][:300] if len(order_levels) > 0 else []
                         asks = order_levels[1][:300] if len(order_levels) > 1 else []
                         if not bids and not asks: continue
 
                         current_minute_ts = int(time.time() / 60) * 60000
-
                         snapshot = {
                             "t": current_minute_ts,
                             "bids": [[float(i['p']), float(i['a'])] for i in bids],
@@ -135,7 +119,6 @@ async def run_scanner():
                         if not SCANNER_HISTORY or current_minute_ts > SCANNER_HISTORY[-1]["t"]:
                             if SCANNER_HISTORY:
                                 save_snapshot_to_db(SCANNER_HISTORY[-1])
-                                # Выводим в консоль, чтобы ты видел, что данные идут
                                 print(f"💾 Минута закрыта. Сохранено в БД (Уровней: {len(bids) + len(asks)})")
 
                             SCANNER_HISTORY.append(snapshot)
@@ -177,6 +160,7 @@ app.add_middleware(
 )
 
 
+# 🔥 ВОТ ЭТОТ ЭНДПОИНТ ТЫ СЛУЧАЙНО УДАЛИЛ! ОН ОБЯЗАН ТУТ БЫТЬ:
 @app.get("/api/scanner/data")
 async def get_scanner_data():
     return {
